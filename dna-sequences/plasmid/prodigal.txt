@@ -1,0 +1,23 @@
+-------------------------------------
+PRODIGAL v2.6.3 [February, 2016]
+Univ of Tenn / Oak Ridge National Lab
+Doug Hyatt, Loren Hauser, et al.
+-------------------------------------
+Request:  Metagenomic, Phase:  Training
+Initializing training files...done!
+-------------------------------------
+Request:  Metagenomic, Phase:  Gene Finding
+Finding genes in sequence #1 (6125 bp)...done!
+DEFINITION  seqnum=1;seqlen=6125;seqhdr=". tRNA synthetase/tRNA pair for the in vivo incorporation of a photocrosslinker, p-azido-l-phenylalanine, into proteins in E coli response to the amber codon, TAG";gc_cont=50.70;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             <3..578
+                     /note=";gc_cont=0.505;tscore=3.22;"
+     CDS             1002..1922
+                     /note=";gc_cont=0.492;tscore=3.95;"
+     CDS             complement(2578..3237)
+                     /note=";gc_cont=0.444;tscore=3.95;"
+     CDS             complement(4557..5435)
+                     /note=";gc_cont=0.528;tscore=3.95;"
+     CDS             5783..>6124
+                     /note=";gc_cont=0.468;tscore=3.95;"
+//

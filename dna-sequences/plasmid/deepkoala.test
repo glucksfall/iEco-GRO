@@ -1,0 +1,9 @@
+name,predict_label,probability,threshold,annotate
+seq1,K10385,0.9934,0.9999,
+seq2,K20549,0.784,0.9996,
+seq3,K20549,0.9668,0.9996,
+seq4,K20549,0.9849,0.9996,
+seq5,K10385,0.2471,0.9999,
+6xHis,K11046,0.9569,0.9663,
+chloramphenicol,K20549,0.9668,0.9996,
+L-arabinose,K20549,0.9849,0.9996,

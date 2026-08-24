@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "org",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "GRO-Ecoli-ME-rEc.y.dC.46-noBBH/blast_files_and_results//org.faa",
+  "number-of-letters": 1364767,
+  "number-of-sequences": 4431,
+  "last-updated": "2026-08-19T22:36:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1821119,
+  "bytes-to-cache": 1404791,
+  "files": [
+    "org.pdb",
+    "org.phr",
+    "org.pin",
+    "org.pot",
+    "org.psq",
+    "org.ptf",
+    "org.pto"
+  ]
+}

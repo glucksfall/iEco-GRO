@@ -1,0 +1,4 @@
+metabolite_id,name,formula,notes
+bipa__L_c,biphenylalanine,C15H15NO2,
+bipa__L_p,biphenylalanine,C15H15NO2,
+bipa__L_e,biphenylalanine,C15H15NO2,

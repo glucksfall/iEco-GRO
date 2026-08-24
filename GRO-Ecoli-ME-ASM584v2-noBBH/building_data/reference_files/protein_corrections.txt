@@ -1,0 +1,4 @@
+complex_id,name,genes,mod,replace
+OX-FERREDOXIN,,,4fe4s(1),
+OX-FERREDOXIN,,,2fe2s(1),
+YdaO_mono,,,4fe4s(1),

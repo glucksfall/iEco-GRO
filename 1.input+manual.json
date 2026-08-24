@@ -1,0 +1,20 @@
+{
+    "m-model-path" : "inputs/iJO1366b-coralme.json",
+    "genbank-path" : "dna-sequences/ASM584v2 (wildtype)/genomic.gbff",
+
+    "df_gene_cplxs_mods_rxns" : "automated-org-with-refs.xlsx",
+    "df_TranscriptionalUnits" : "",
+    "df_matrix_stoichiometry" : "inputs/reaction_matrix.txt",
+    "df_matrix_subrxn_stoich" : "inputs/subreaction_matrix.txt",
+    "df_metadata_orphan_rxns" : "inputs/orphan_and_spont_reactions.txt",
+    "df_metadata_metabolites" : "inputs/me_metabolites.txt",
+    "df_reaction_keff_consts" : "inputs/keffs-rs.txt",
+
+    "biocyc.genes": "inputs/genes.txt",
+    "biocyc.prots": "inputs/proteins.txt",
+    "biocyc.TUs": "inputs/TUs.txt",
+    "biocyc.RNAs": "inputs/RNAs.txt",
+    "biocyc.seqs": "inputs/sequences.fasta",
+
+    "locus_tag" : "locus_tag"
+}

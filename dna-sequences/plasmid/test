@@ -1,0 +1,3 @@
+##gff-version 3
+.	tRNAscan-SE	tRNA	3033	3109	79.6	+	.	ID=..trna1;Name=..tRNA1-SupCTA;isotype=Sup;anticodon=CTA;gene_biotype=tRNA;
+.	tRNAscan-SE	exon	3033	3109	.	+	.	ID=..trna1.exon1;Parent=..trna1;

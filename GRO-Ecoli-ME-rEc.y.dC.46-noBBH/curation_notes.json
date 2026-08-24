@@ -1,0 +1,3077 @@
+{
+    "org.check_m_model": [
+        {
+            "msg": "Some reactions are missing their subsystem",
+            "triggered_by": [
+                "DM_4CRSOL",
+                "DM_5DRIB",
+                "DM_AACALD",
+                "DM_AMOB",
+                "DM_MTHTHF",
+                "DM_OXAM",
+                "EX_12ppd__R_e",
+                "EX_12ppd__S_e",
+                "EX_14glucan_e",
+                "EX_15dap_e",
+                "EX_23camp_e",
+                "EX_23ccmp_e",
+                "EX_23cgmp_e",
+                "EX_23cump_e",
+                "EX_23dappa_e",
+                "EX_26dap__M_e",
+                "EX_2ddglcn_e",
+                "EX_34dhpac_e",
+                "EX_3amp_e",
+                "EX_3cmp_e",
+                "EX_3gmp_e",
+                "EX_3hcinnm_e",
+                "EX_3hpp_e",
+                "EX_3hpppn_e",
+                "EX_3ump_e",
+                "EX_4abut_e",
+                "EX_4hoxpacd_e",
+                "EX_5dglcn_e",
+                "EX_5mtr_e",
+                "EX_LalaDglu_e",
+                "EX_LalaDgluMdap_e",
+                "EX_LalaDgluMdapDala_e",
+                "EX_LalaLglu_e",
+                "EX_ac_e",
+                "EX_acac_e",
+                "EX_acald_e",
+                "EX_acgal_e",
+                "EX_acgal1p_e",
+                "EX_acgam_e",
+                "EX_acgam1p_e",
+                "EX_acmana_e",
+                "EX_acmum_e",
+                "EX_acnam_e",
+                "EX_acolipa_e",
+                "EX_acser_e",
+                "EX_ade_e",
+                "EX_adn_e",
+                "EX_adocbl_e",
+                "EX_ag_e",
+                "EX_agm_e",
+                "EX_akg_e",
+                "EX_ala__B_e",
+                "EX_ala__D_e",
+                "EX_ala__L_e",
+                "EX_alaala_e",
+                "EX_all__D_e",
+                "EX_alltn_e",
+                "EX_amp_e",
+                "EX_anhgm_e",
+                "EX_arab__L_e",
+                "EX_arbt_e",
+                "EX_arbtn_e",
+                "EX_arbtn__fe3_e",
+                "EX_arg__L_e",
+                "EX_ascb__L_e",
+                "EX_asn__L_e",
+                "EX_aso3_e",
+                "EX_asp__L_e",
+                "EX_btn_e",
+                "EX_but_e",
+                "EX_butso3_e",
+                "EX_ca2_e",
+                "EX_cbi_e",
+                "EX_cbl1_e",
+                "EX_cd2_e",
+                "EX_cgly_e",
+                "EX_chol_e",
+                "EX_chtbs_e",
+                "EX_cit_e",
+                "EX_cl_e",
+                "EX_cm_e",
+                "EX_cmp_e",
+                "EX_co2_e",
+                "EX_cobalt2_e",
+                "EX_colipa_e",
+                "EX_colipap_e",
+                "EX_cpgn_e",
+                "EX_cpgn__un_e",
+                "EX_crn_e",
+                "EX_crn__D_e",
+                "EX_csn_e",
+                "EX_cu_e",
+                "EX_cu2_e",
+                "EX_cyan_e",
+                "EX_cynt_e",
+                "EX_cys__D_e",
+                "EX_cys__L_e",
+                "EX_cytd_e",
+                "EX_dad__2_e",
+                "EX_damp_e",
+                "EX_dca_e",
+                "EX_dcmp_e",
+                "EX_dcyt_e",
+                "EX_ddca_e",
+                "EX_dgmp_e",
+                "EX_dgsn_e",
+                "EX_dha_e",
+                "EX_dimp_e",
+                "EX_din_e",
+                "EX_dms_e",
+                "EX_dmso_e",
+                "EX_dopa_e",
+                "EX_doxrbcn_e",
+                "EX_dtmp_e",
+                "EX_dump_e",
+                "EX_duri_e",
+                "EX_eca4colipa_e",
+                "EX_enlipa_e",
+                "EX_enter_e",
+                "EX_etha_e",
+                "EX_ethso3_e",
+                "EX_etoh_e",
+                "EX_f6p_e",
+                "EX_fald_e",
+                "EX_fe2_e",
+                "EX_fe3_e",
+                "EX_fe3dcit_e",
+                "EX_fe3dhbzs_e",
+                "EX_fe3hox_e",
+                "EX_fe3hox__un_e",
+                "EX_fecrm_e",
+                "EX_fecrm__un_e",
+                "EX_feenter_e",
+                "EX_feoxam_e",
+                "EX_feoxam__un_e",
+                "EX_for_e",
+                "EX_fru_e",
+                "EX_frulys_e",
+                "EX_fruur_e",
+                "EX_fuc__L_e",
+                "EX_fum_e",
+                "EX_fusa_e",
+                "EX_g1p_e",
+                "EX_g3pc_e",
+                "EX_g3pe_e",
+                "EX_g3pg_e",
+                "EX_g3pi_e",
+                "EX_g3ps_e",
+                "EX_g6p_e",
+                "EX_gal_e",
+                "EX_gal__bD_e",
+                "EX_gal1p_e",
+                "EX_galct__D_e",
+                "EX_galctn__D_e",
+                "EX_galctn__L_e",
+                "EX_galt_e",
+                "EX_galur_e",
+                "EX_gam_e",
+                "EX_gam6p_e",
+                "EX_gbbtn_e",
+                "EX_gdp_e",
+                "EX_glc__D_e",
+                "EX_glcn_e",
+                "EX_glcr_e",
+                "EX_glcur_e",
+                "EX_glcur1p_e",
+                "EX_gln__L_e",
+                "EX_glu__L_e",
+                "EX_gly_e",
+                "EX_glyald_e",
+                "EX_glyb_e",
+                "EX_glyc_e",
+                "EX_glyc__R_e",
+                "EX_glyc2p_e",
+                "EX_glyc3p_e",
+                "EX_glyclt_e",
+                "EX_gmp_e",
+                "EX_gsn_e",
+                "EX_gthox_e",
+                "EX_gthrd_e",
+                "EX_gtp_e",
+                "EX_gua_e",
+                "EX_h_e",
+                "EX_h2_e",
+                "EX_h2o_e",
+                "EX_h2o2_e",
+                "EX_h2s_e",
+                "EX_hacolipa_e",
+                "EX_halipa_e",
+                "EX_hdca_e",
+                "EX_hdcea_e",
+                "EX_hg2_e",
+                "EX_his__L_e",
+                "EX_hom__L_e",
+                "EX_hxa_e",
+                "EX_hxan_e",
+                "EX_idon__L_e",
+                "EX_ile__L_e",
+                "EX_imp_e",
+                "EX_indole_e",
+                "EX_inost_e",
+                "EX_ins_e",
+                "EX_isetac_e",
+                "EX_k_e",
+                "EX_kdo2lipid4_e",
+                "EX_lac__D_e",
+                "EX_lac__L_e",
+                "EX_lcts_e",
+                "EX_leu__L_e",
+                "EX_lipa_e",
+                "EX_lipa_cold_e",
+                "EX_lipoate_e",
+                "EX_lys__L_e",
+                "EX_lyx__L_e",
+                "EX_mal__D_e",
+                "EX_mal__L_e",
+                "EX_malt_e",
+                "EX_malthx_e",
+                "EX_maltpt_e",
+                "EX_malttr_e",
+                "EX_maltttr_e",
+                "EX_man_e",
+                "EX_man6p_e",
+                "EX_manglyc_e",
+                "EX_melib_e",
+                "EX_meoh_e",
+                "EX_met__D_e",
+                "EX_met__L_e",
+                "EX_metsox__R__L_e",
+                "EX_metsox__S__L_e",
+                "EX_mg2_e",
+                "EX_mincyc_e",
+                "EX_minohp_e",
+                "EX_mmet_e",
+                "EX_mn2_e",
+                "EX_mnl_e",
+                "EX_mobd_e",
+                "EX_mso3_e",
+                "EX_n2o_e",
+                "EX_na1_e",
+                "EX_nac_e",
+                "EX_nh4_e",
+                "EX_ni2_e",
+                "EX_nmn_e",
+                "EX_no_e",
+                "EX_no2_e",
+                "EX_no3_e",
+                "EX_novbcn_e",
+                "EX_o16a4colipa_e",
+                "EX_o2_e",
+                "EX_o2s_e",
+                "EX_ocdca_e",
+                "EX_ocdcea_e",
+                "EX_octa_e",
+                "EX_orn_e",
+                "EX_orot_e",
+                "EX_pacald_e",
+                "EX_peamn_e",
+                "EX_phe__L_e",
+                "EX_pheme_e",
+                "EX_pi_e",
+                "EX_pnto__R_e",
+                "EX_ppa_e",
+                "EX_ppal_e",
+                "EX_pppn_e",
+                "EX_ppt_e",
+                "EX_pro__L_e",
+                "EX_progly_e",
+                "EX_psclys_e",
+                "EX_pser__L_e",
+                "EX_ptrc_e",
+                "EX_pydam_e",
+                "EX_pydx_e",
+                "EX_pydxn_e",
+                "EX_pyr_e",
+                "EX_quin_e",
+                "EX_r5p_e",
+                "EX_rfamp_e",
+                "EX_rib__D_e",
+                "EX_rmn_e",
+                "EX_sbt__D_e",
+                "EX_sel_e",
+                "EX_ser__D_e",
+                "EX_ser__L_e",
+                "EX_skm_e",
+                "EX_slnt_e",
+                "EX_so2_e",
+                "EX_so3_e",
+                "EX_so4_e",
+                "EX_spmd_e",
+                "EX_succ_e",
+                "EX_sucr_e",
+                "EX_sulfac_e",
+                "EX_tartr__D_e",
+                "EX_tartr__L_e",
+                "EX_taur_e",
+                "EX_tcynt_e",
+                "EX_thm_e",
+                "EX_thr__L_e",
+                "EX_thrp_e",
+                "EX_thym_e",
+                "EX_thymd_e",
+                "EX_tma_e",
+                "EX_tmao_e",
+                "EX_tre_e",
+                "EX_trp__L_e",
+                "EX_tsul_e",
+                "EX_ttdca_e",
+                "EX_ttdcea_e",
+                "EX_ttrcyc_e",
+                "EX_tungs_e",
+                "EX_tym_e",
+                "EX_tyr__L_e",
+                "EX_tyrp_e",
+                "EX_uacgam_e",
+                "EX_udpacgal_e",
+                "EX_udpg_e",
+                "EX_udpgal_e",
+                "EX_udpglcur_e",
+                "EX_ump_e",
+                "EX_ura_e",
+                "EX_urea_e",
+                "EX_uri_e",
+                "EX_val__L_e",
+                "EX_xan_e",
+                "EX_xmp_e",
+                "EX_xtsn_e",
+                "EX_xyl__D_e",
+                "EX_xylu__L_e",
+                "EX_zn2_e",
+                "CU2R"
+            ],
+            "importance": "high",
+            "to_do": "Make sure the subsystems of these reactions are correct"
+        },
+        {
+            "msg": "Some metabolites have no reactions associated",
+            "triggered_by": [
+                "4fe4s_c",
+                "2fe2s_c",
+                "li_c",
+                "3a1hac1p_c"
+            ],
+            "importance": "critical",
+            "to_do": "Make sure these metabolites are removed or connected properly"
+        },
+        {
+            "msg": "Some genes have no reactions associated",
+            "triggered_by": [
+                "b0614",
+                "b2711",
+                "b1466",
+                "b1226",
+                "b0902",
+                "b1391",
+                "b3952"
+            ],
+            "importance": "critical",
+            "to_do": "Make sure these genes are removed or associated properly"
+        }
+    ],
+    "org.read_optional_file": [
+        {
+            "msg": "No genes file was found. Initializing an empty one.",
+            "importance": "high",
+            "to_do": "Download genes from BioCyc if available"
+        },
+        {
+            "msg": "No proteins file was found. Initializing an empty one.",
+            "importance": "high",
+            "to_do": "Download proteins from BioCyc if available"
+        },
+        {
+            "msg": "No RNAs file was found. Initializing an empty one.",
+            "importance": "high",
+            "to_do": "Download RNAs from BioCyc if available"
+        },
+        {
+            "msg": "No TUs file was found. Initializing an empty one.",
+            "importance": "high",
+            "to_do": "Download TUs from BioCyc if available"
+        }
+    ],
+    "org.check_gene_overlap": [
+        {
+            "msg": "M-model has a 0 gene overlap with optional files (BioCyc)",
+            "importance": "critical",
+            "to_do": "Check whether optional files where downloaded correctly."
+        }
+    ],
+    "org.prune_genbank": [
+        {
+            "msg": "Some features contain a sequence that is not divisible by 3.",
+            "triggered_by": [
+                {
+                    "gene": [
+                        "yaaJ"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_000007"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_414548.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_function: GO:0005416 - amino acid:monoatomic cation symporter activity [Evidence IEA]; GO_process: GO:0006865 - amino acid transport [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "amino acid carrier protein"
+                    ],
+                    "location": "[6528:7960](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_000056"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_000244358.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003677 - DNA binding [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "transposase DNA-binding-containing protein"
+                    ],
+                    "location": "[59296:59475](-)"
+                },
+                {
+                    "gene": [
+                        "yagA"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_000277"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_010723086.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004803 - transposase activity [Evidence IEA]; GO_process: GO:0006313 - DNA transposition [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS481-like element ISEc19 family transposase"
+                    ],
+                    "location": "[279881:281035](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_000368"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_009518748.2"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[374176:374346](+)"
+                },
+                {
+                    "gene": [
+                        "iraP"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_000396"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_308459.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "anti-adapter protein IraP"
+                    ],
+                    "location": "[400435:400695](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_000501"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_308571.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[512947:513045](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_000581"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_707858.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "methyltransferase"
+                    ],
+                    "location": "[581199:581866](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_000601"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_009008364.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[606646:606915](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_000648"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_308691.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "deaminated glutathione amidase"
+                    ],
+                    "location": "[657078:657866](+)"
+                },
+                {
+                    "gene": [
+                        "ybeQ"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_000666"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_415177.4"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "Sel1 family TPR-like repeat protein YbeQ"
+                    ],
+                    "location": "[674617:675594](-)"
+                },
+                {
+                    "gene": [
+                        "kdpD"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_000716"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_415223.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0000155 - phosphorelay sensor kinase activity [Evidence IEA]; GO_process: GO:0000160 - phosphorelay signal transduction system [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "two-component system sensor histidine kinase KdpD"
+                    ],
+                    "location": "[720776:723462](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_000802"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_000151206.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "cell division protein ZapA"
+                    ],
+                    "location": "[808214:808431](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_000813"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_308299.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "antitermination protein N"
+                    ],
+                    "location": "[812803:812996](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_000824"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_009518748.2"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[822689:822787](-)"
+                },
+                {
+                    "gene": [
+                        "zapC"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_000995"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_415466.4"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "cell division protein ZapC"
+                    ],
+                    "location": "[1013068:1013610](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_001038"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076612230.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS1 family transposase"
+                    ],
+                    "location": "[1056948:1057645](+)"
+                },
+                {
+                    "gene": [
+                        "efeU"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001070"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_309290.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0033573 - high-affinity iron permease complex [Evidence IEA]; GO_function: GO:0005381 - iron ion transmembrane transporter activity [Evidence IEA]; GO_process: GO:0034755 - iron ion transmembrane transport [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "iron uptake transporter permease EfeU"
+                    ],
+                    "location": "[1088468:1089298](+)"
+                },
+                {
+                    "gene": [
+                        "comR"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001161"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_415629.4"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "TetR family copper-responsive transcriptional repressor ComR"
+                    ],
+                    "location": "[1175312:1175944](-)"
+                },
+                {
+                    "gene": [
+                        "ycgH"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001224"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_000768545.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "autotransporter YcgH"
+                    ],
+                    "location": "[1226709:1229357](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_001230"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_417134.2"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0019867 - outer membrane [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "autotransporter outer membrane beta-barrel domain-containing protein"
+                    ],
+                    "location": "[1230672:1231016](+)"
+                },
+                {
+                    "gene": [
+                        "dhaK"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001257"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_415718.6"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004371 - glycerone kinase activity [Evidence IEA]; GO_process: GO:0006071 - glycerol metabolic process [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "dihydroxyacetone kinase subunit DhaK"
+                    ],
+                    "location": "[1256876:1257948](-)"
+                },
+                {
+                    "gene": [
+                        "ugpC"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001389"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_309924.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0005524 - ATP binding [Evidence IEA]; GO_function: GO:0140359 - ABC-type transporter activity [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC"
+                    ],
+                    "location": "[1385648:1386730](+)"
+                },
+                {
+                    "gene": [
+                        "feaB"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001463"
+                    ],
+                    "gene_synonym": [
+                        "maoB",
+                        "padA"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_415903.4"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "phenylacetaldehyde dehydrogenase"
+                    ],
+                    "location": "[1452346:1453847](+)"
+                },
+                {
+                    "gene": [
+                        "gap"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001494"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_310049.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016620 - oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor [Evidence IEA]; GO_function: GO:0050661 - NADP binding [Evidence IEA]; GO_function: GO:0051287 - NAD binding [Evidence IEA]; GO_process: GO:0006006 - glucose metabolic process [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "type I glyceraldehyde-3-phosphate dehydrogenase"
+                    ],
+                    "location": "[1494541:1495542](-)"
+                },
+                {
+                    "gene": [
+                        "ydcD"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001536"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_415974.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "protein YdcD"
+                    ],
+                    "location": "[1534750:1535232](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_001538"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_000027427.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "ISAs1 family transposase"
+                    ],
+                    "location": "[1535413:1536558](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_001549"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_000627100.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "leucine-rich repeat domain-containing protein"
+                    ],
+                    "location": "[1549211:1550542](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_001585"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_005226947.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003700 - DNA-binding transcription factor activity [Evidence IEA]; GO_function: GO:0043565 - sequence-specific DNA binding [Evidence IEA]; GO_process: GO:0006355 - regulation of DNA-templated transcription [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "helix-turn-helix domain-containing protein"
+                    ],
+                    "location": "[1595161:1595370](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_001588"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_016244610.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0019867 - outer membrane [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "ECSE_1600 family autotransporter"
+                    ],
+                    "location": "[1597492:1602914](-)"
+                },
+                {
+                    "gene": [
+                        "ydeI"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001616"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416054.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "YdeI family stress tolerance OB fold protein"
+                    ],
+                    "location": "[1628932:1629324](-)"
+                },
+                {
+                    "gene": [
+                        "fumC"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001699"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416128.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0045239 - tricarboxylic acid cycle heteromeric enzyme complex [Evidence IEA]; GO_function: GO:0004333 - fumarate hydratase activity [Evidence IEA]; GO_process: GO:0006106 - fumarate metabolic process [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "class II fumarate hydratase"
+                    ],
+                    "location": "[1690011:1691414](-)"
+                },
+                {
+                    "gene": [
+                        "malX"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001709"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416138.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "PTS maltose transporter subunit IICB"
+                    ],
+                    "location": "[1704179:1705773](+)"
+                },
+                {
+                    "gene": [
+                        "ldtE"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001769"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416193.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "L,D-transpeptidase LdtE"
+                    ],
+                    "location": "[1762547:1763547](-)"
+                },
+                {
+                    "gene": [
+                        "sufS"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001771"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416195.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0030170 - pyridoxal phosphate binding [Evidence IEA]; GO_function: GO:0031071 - cysteine desulfurase activity [Evidence IEA]; GO_process: GO:0006534 - cysteine metabolic process [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "cysteine desulfurase SufS"
+                    ],
+                    "location": "[1764124:1765346](-)"
+                },
+                {
+                    "gene": [
+                        "sufB"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001774"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416198.2"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_process: GO:0016226 - iron-sulfur cluster assembly [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "Fe-S cluster assembly protein SufB"
+                    ],
+                    "location": "[1767344:1768831](-)"
+                },
+                {
+                    "gene": [
+                        "espL1"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001812"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_310454.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "type III secretion system effector EspL1"
+                    ],
+                    "location": "[1807915:1809815](+)"
+                },
+                {
+                    "gene": [
+                        "yeaH"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001876"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416298.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "DUF444 family protein"
+                    ],
+                    "location": "[1873774:1875057](+)"
+                },
+                {
+                    "gene": [
+                        "nimR"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_001882"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416304.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "DNA-binding transcriptional regulator NimR"
+                    ],
+                    "location": "[1879573:1880394](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_002031"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_001695252.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "DUF5503 domain-containing protein"
+                    ],
+                    "location": "[2015266:2016395](-)"
+                },
+                {
+                    "gene": [
+                        "ompC"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_002058"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF012489.4"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0015288 - porin activity [Evidence IEA]; GO_process: GO:0034220 - monoatomic ion transmembrane transport [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "porin OmpC"
+                    ],
+                    "location": "[2038115:2039287](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_002212"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_001215568.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "DUF4132 domain-containing protein"
+                    ],
+                    "location": "[2200516:2204312](+)"
+                },
+                {
+                    "gene": [
+                        "yehI"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_002213"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416621.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "DUF4132 domain-containing protein YehI"
+                    ],
+                    "location": "[2204321:2207953](+)"
+                },
+                {
+                    "gene": [
+                        "btsS"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_002222"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416630.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "two-component regulatory system sensor histidine kinase BtsS"
+                    ],
+                    "location": "[2217000:2218685](-)"
+                },
+                {
+                    "gene": [
+                        "mdtQ"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_002235"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_001583680.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_function: GO:0015562 - efflux transmembrane transporter activity [Evidence IEA]; GO_process: GO:0055085 - transmembrane transport [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "multidrug resistance outer membrane protein MdtQ"
+                    ],
+                    "location": "[2231363:2232799](-)"
+                },
+                {
+                    "gene": [
+                        "galS"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_002248"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416656.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003677 - DNA binding [Evidence IEA]; GO_process: GO:0006355 - regulation of DNA-templated transcription [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "HTH-type transcriptional regulator GalS"
+                    ],
+                    "location": "[2244668:2245710](-)"
+                },
+                {
+                    "gene": [
+                        "yejO"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_002288"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_311108.2"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "autotransporter YejO"
+                    ],
+                    "location": "[2290431:2292964](-)"
+                },
+                {
+                    "gene": [
+                        "evgS"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_002475"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_416871.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004673 - protein histidine kinase activity [Evidence IEA]; GO_process: GO:0010447 - response to acidic pH [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "acid-sensing system histidine kinase EvgS"
+                    ],
+                    "location": "[2492131:2495727](+)"
+                },
+                {
+                    "gene": [
+                        "bcp"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_002591"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_311369.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0016209 - antioxidant activity [Evidence IEA]; GO_function: GO:0016491 - oxidoreductase activity [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "thioredoxin-dependent thiol peroxidase"
+                    ],
+                    "location": "[2608228:2608700](+)"
+                },
+                {
+                    "gene": [
+                        "arsB"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_002753"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_312401.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "arsenical efflux pump membrane protein ArsB"
+                    ],
+                    "location": "[2779926:2780936](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_002755"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF017787.4"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "DUF905 family protein"
+                    ],
+                    "location": "[2783352:2783576](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_002766"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_008439272.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003824 - catalytic activity [Evidence IEA]; GO_process: GO:0005975 - carbohydrate metabolic process [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "alpha-amylase family glycosyl hydrolase"
+                    ],
+                    "location": "[2794156:2796408](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_002788"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_311570.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0022857 - transmembrane transporter activity [Evidence IEA]; GO_process: GO:0055085 - transmembrane transport [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "MFS transporter"
+                    ],
+                    "location": "[2816074:2817252](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_002962"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_311734.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[2999460:2999950](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_002966"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_019843029.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "transglycosylase SLT domain-containing protein"
+                    ],
+                    "location": "[3002845:3003348](+)"
+                },
+                {
+                    "gene": [
+                        "xdhA"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_002976"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_708647.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0005506 - iron ion binding [Evidence IEA]; GO_function: GO:0016491 - oxidoreductase activity [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "xanthine dehydrogenase molybdenum-binding subunit XdhA"
+                    ],
+                    "location": "[3009213:3011512](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003104"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_009518748.2"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[3148527:3148609](-)"
+                },
+                {
+                    "gene": [
+                        "sstT"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003200"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_311998.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_function: GO:0015293 - symporter activity [Evidence IEA]; GO_process: GO:0015826 - threonine transport [Evidence IEA]; GO_process: GO:0032329 - serine transport [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "serine/threonine transporter SstT"
+                    ],
+                    "location": "[3247230:3248477](+)"
+                },
+                {
+                    "gene": [
+                        "dacB"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003292"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_001212660.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004185 - serine-type carboxypeptidase activity [Evidence IEA]; GO_process: GO:0006508 - proteolysis [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "serine-type D-Ala-D-Ala carboxypeptidase"
+                    ],
+                    "location": "[3336251:3337686](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003330"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_000821351.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "YhcE family protein"
+                    ],
+                    "location": "[3374017:3374219](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003378"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_005121390.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "transporter substrate-binding domain-containing protein"
+                    ],
+                    "location": "[3426331:3427356](+)"
+                },
+                {
+                    "gene": [
+                        "yhdX"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003379"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_026209.1"
+                    ],
+                    "note": [
+                        "The N-terminal region of this protein, as described by TIGR01726, is a three transmembrane segment that identifies a subfamily of ABC transporter permease subunits, which specificities that include histidine, arginine, glutamine, glutamate, L-cystine (sic), the opines (in Agrobacterium) octopine and nopaline, etc.; frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_function: GO:0022857 - transmembrane transporter activity [Evidence IEA]; GO_process: GO:0015837 - amine transport [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "ABC transporter permease subunit"
+                    ],
+                    "location": "[3427423:3428606](+)"
+                },
+                {
+                    "gene": [
+                        "php"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003489"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_417838.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "phosphotriesterase-related protein"
+                    ],
+                    "location": "[3515002:3515880](-)"
+                },
+                {
+                    "gene": [
+                        "yhfZ"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003493"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_026214.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "GntR family transcriptional regulator YhfZ"
+                    ],
+                    "location": "[3518728:3519635](-)"
+                },
+                {
+                    "gene": [
+                        "yhhS"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003581"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_417930.2"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0022857 - transmembrane transporter activity [Evidence IEA]; GO_process: GO:0055085 - transmembrane transport [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "MFS transporter"
+                    ],
+                    "location": "[3617807:3619027](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003599"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_016248132.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "DUF4049 domain-containing protein"
+                    ],
+                    "location": "[3640145:3641752](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003618"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_312403.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[3660521:3660900](+)"
+                },
+                {
+                    "gene": [
+                        "eptB"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003663"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_418002.2"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0008484 - sulfuric ester hydrolase activity [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "kdo(2)-lipid A phosphoethanolamine 7''-transferase"
+                    ],
+                    "location": "[3716077:3717770](-)"
+                },
+                {
+                    "gene": [
+                        "xylB"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003683"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_418021.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004856 - D-xylulokinase activity [Evidence IEA]; GO_process: GO:0005997 - xylulose metabolic process [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "xylulokinase"
+                    ],
+                    "location": "[3735211:3736667](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003718"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_312497.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "RHS repeat-associated core domain-containing protein"
+                    ],
+                    "location": "[3775733:3776692](+)"
+                },
+                {
+                    "gene": [
+                        "rph"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003768"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_006803115.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0000049 - tRNA binding [Evidence IEA]; GO_function: GO:0009022 - tRNA nucleotidyltransferase activity [Evidence IEA]; GO_process: GO:0008033 - tRNA processing [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "ribonuclease PH"
+                    ],
+                    "location": "[3824360:3825076](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003810"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_312649.2"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[3869699:3870514](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003811"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_312650.2"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "PTS sugar transporter subunit IIB"
+                    ],
+                    "location": "[3870513:3872126](-)"
+                },
+                {
+                    "gene": [
+                        "yieH"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003845"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_418171.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "6-phosphogluconate phosphatase"
+                    ],
+                    "location": "[3905296:3905963](+)"
+                },
+                {
+                    "gene": [
+                        "ilvG"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003897"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_001012636.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0000287 - magnesium ion binding [Evidence IEA]; GO_function: GO:0003984 - acetolactate synthase activity [Evidence IEA]; GO_function: GO:0030976 - thiamine pyrophosphate binding [Evidence IEA]; GO_function: GO:0050660 - flavin adenine dinucleotide binding [Evidence IEA]; GO_process: GO:0009082 - branched-chain amino acid biosynthetic process [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "acetolactate synthase 2 catalytic subunit"
+                    ],
+                    "location": "[3959084:3960729](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003905"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_312737.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0003677 - DNA binding [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "type II toxin-antitoxin system PemK/MazF family toxin"
+                    ],
+                    "location": "[3968536:3968985](-)"
+                },
+                {
+                    "gene": [
+                        "wzzE"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003913"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_709589.2"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_process: GO:0009103 - lipopolysaccharide biosynthetic process [Evidence IEA]; GO_process: GO:0009246 - enterobacterial common antigen biosynthetic process [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "ECA polysaccharide chain length modulation protein"
+                    ],
+                    "location": "[3977555:3978603](+)"
+                },
+                {
+                    "gene": [
+                        "yifK"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_003924"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_312756.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0016020 - membrane [Evidence IEA]; GO_process: GO:0006865 - amino acid transport [Evidence IEA]; GO_process: GO:0055085 - transmembrane transport [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "amino acid permease"
+                    ],
+                    "location": "[3989412:3990799](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003937"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_000580503.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "DKNYY family protein"
+                    ],
+                    "location": "[4002747:4002890](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003973"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_009518748.2"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[4035896:4036030](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_003994"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_000546704.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[4059588:4059755](+)"
+                },
+                {
+                    "gene": [
+                        "phnE"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_004236"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_313113.2"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_component: GO:0005886 - plasma membrane [Evidence IEA]; GO_component: GO:0055052 - ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing [Evidence IEA]; GO_function: GO:0015416 - ABC-type phosphonate transporter activity [Evidence IEA]; GO_process: GO:0015716 - organic phosphonate transport [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "phosphonate ABC transporter, permease protein PhnE"
+                    ],
+                    "location": "[4330972:4331760](-)"
+                },
+                {
+                    "gene": [
+                        "yjfY"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_004336"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_313202.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "DUF1471 family protein YjfY"
+                    ],
+                    "location": "[4433045:4433320](-)"
+                },
+                {
+                    "gene": [
+                        "tamB"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_004358"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:NP_418642.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "autotransporter assembly complex protein TamB"
+                    ],
+                    "location": "[4452640:4456419](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_004408"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_001535067.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0008484 - sulfuric ester hydrolase activity [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "sulfatase-like hydrolase/transferase"
+                    ],
+                    "location": "[4508110:4509291](-)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_004409"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_001546148.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "transposase domain-containing protein"
+                    ],
+                    "location": "[4509877:4510107](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_004420"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611482.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004803 - transposase activity [Evidence IEA]; GO_process: GO:0006313 - DNA transposition [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS3-like element ISEc52 family transposase"
+                    ],
+                    "location": "[4517526:4518311](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_004430"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_086558153.1"
+                    ],
+                    "note": [
+                        "programmed frameshift; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology. GO_function: GO:0004803 - transposase activity [Evidence IEA]; GO_process: GO:0006313 - DNA transposition [Evidence IEA]"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS1-like element IS1F family transposase"
+                    ],
+                    "location": "[4527044:4527742](+)"
+                },
+                {
+                    "gene": [
+                        "yjhR"
+                    ],
+                    "locus_tag": [
+                        "pgaptmp_004449"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_176259710.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "helicase YjhR"
+                    ],
+                    "location": "[4543308:4544549](+)"
+                },
+                {
+                    "locus_tag": [
+                        "pgaptmp_004450"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_000168579.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "restriction endonuclease"
+                    ],
+                    "location": "[4544816:4545022](-)"
+                }
+            ],
+            "importance": "critical",
+            "to_do": "Check whether any of these genes are translated in your final ME-model. If so, fix the positions of the gene in genome_modified.gb"
+        }
+    ],
+    "org.update_genbank_from_files": [
+        {
+            "msg": "Some feature in genbank are CDS but have no translation qualifier. Translated sequences from Biopython were filled in instead",
+            "triggered_by": [
+                "bipA_tRNA_synth_copy1",
+                "bipA_tRNA_synth_copy2",
+                "pgaptmp_000007",
+                "pgaptmp_000019",
+                "pgaptmp_000056",
+                "b0090",
+                "pgaptmp_000124",
+                "pgaptmp_000222",
+                "pgaptmp_000223",
+                "pgaptmp_000234",
+                "pgaptmp_000240",
+                "pgaptmp_000241",
+                "pgaptmp_000259",
+                "pgaptmp_000263",
+                "pgaptmp_000265",
+                "pgaptmp_000266",
+                "pgaptmp_000271",
+                "pgaptmp_000273",
+                "pgaptmp_000274",
+                "pgaptmp_000276",
+                "pgaptmp_000277",
+                "pgaptmp_000285",
+                "pgaptmp_000294",
+                "pgaptmp_000311",
+                "pgaptmp_000312",
+                "pgaptmp_000314",
+                "pgaptmp_000315",
+                "pgaptmp_000339",
+                "pgaptmp_000358",
+                "pgaptmp_000363",
+                "pgaptmp_000367",
+                "pgaptmp_000368",
+                "pgaptmp_000377",
+                "pgaptmp_000379",
+                "pgaptmp_000385",
+                "pgaptmp_000387",
+                "pgaptmp_000396",
+                "pgaptmp_000406",
+                "pgaptmp_000501",
+                "pgaptmp_000514",
+                "pgaptmp_000517",
+                "pgaptmp_000552",
+                "pgaptmp_000553",
+                "pgaptmp_000554",
+                "pgaptmp_000556",
+                "pgaptmp_000579",
+                "pgaptmp_000580",
+                "pgaptmp_000581",
+                "pgaptmp_000582",
+                "pgaptmp_000601",
+                "pgaptmp_000648",
+                "pgaptmp_000666",
+                "pgaptmp_000693",
+                "pgaptmp_000710",
+                "pgaptmp_000711",
+                "pgaptmp_000716",
+                "pgaptmp_000724",
+                "pgaptmp_000726",
+                "pgaptmp_000727",
+                "pgaptmp_000728",
+                "pgaptmp_000802",
+                "pgaptmp_000813",
+                "pgaptmp_000819",
+                "pgaptmp_000824",
+                "pgaptmp_000907",
+                "b0893",
+                "pgaptmp_000995",
+                "pgaptmp_001038",
+                "pgaptmp_001058",
+                "pgaptmp_001070",
+                "pgaptmp_001080",
+                "pgaptmp_001161",
+                "pgaptmp_001199",
+                "pgaptmp_001200",
+                "pgaptmp_001202",
+                "pgaptmp_001203",
+                "pgaptmp_001206",
+                "pgaptmp_001207",
+                "pgaptmp_001211",
+                "pgaptmp_001224",
+                "pgaptmp_001230",
+                "pgaptmp_001257",
+                "pgaptmp_001300",
+                "pgaptmp_001319",
+                "pgaptmp_001389",
+                "pgaptmp_001396",
+                "pgaptmp_001398",
+                "pgaptmp_001436",
+                "pgaptmp_001442",
+                "pgaptmp_001443",
+                "pgaptmp_001446",
+                "pgaptmp_001463",
+                "pgaptmp_001480",
+                "pgaptmp_001483",
+                "pgaptmp_001494",
+                "pgaptmp_001509",
+                "pgaptmp_001535",
+                "pgaptmp_001536",
+                "pgaptmp_001538",
+                "pgaptmp_001549",
+                "pgaptmp_001550",
+                "pgaptmp_001584",
+                "pgaptmp_001585",
+                "pgaptmp_001588",
+                "pgaptmp_001600",
+                "pgaptmp_001616",
+                "pgaptmp_001623",
+                "pgaptmp_001655",
+                "pgaptmp_001663",
+                "pgaptmp_001664",
+                "pgaptmp_001665",
+                "pgaptmp_001699",
+                "pgaptmp_001709",
+                "pgaptmp_001769",
+                "pgaptmp_001771",
+                "pgaptmp_001774",
+                "pgaptmp_001812",
+                "pgaptmp_001876",
+                "pgaptmp_001882",
+                "pgaptmp_001895",
+                "pgaptmp_002011",
+                "pgaptmp_002031",
+                "pgaptmp_002058",
+                "pgaptmp_002071",
+                "pgaptmp_002085",
+                "pgaptmp_002087",
+                "pgaptmp_002089",
+                "pgaptmp_002090",
+                "pgaptmp_002098",
+                "pgaptmp_002099",
+                "pgaptmp_002126",
+                "pgaptmp_002128",
+                "pgaptmp_002182",
+                "pgaptmp_002185",
+                "pgaptmp_002187",
+                "pgaptmp_002212",
+                "pgaptmp_002213",
+                "pgaptmp_002218",
+                "pgaptmp_002222",
+                "pgaptmp_002235",
+                "pgaptmp_002248",
+                "pgaptmp_002288",
+                "pgaptmp_002325",
+                "pgaptmp_002326",
+                "pgaptmp_002336",
+                "pgaptmp_002337",
+                "pgaptmp_002344",
+                "pgaptmp_002441",
+                "pgaptmp_002457",
+                "pgaptmp_002460",
+                "pgaptmp_002462",
+                "pgaptmp_002475",
+                "pgaptmp_002591",
+                "pgaptmp_002664",
+                "pgaptmp_002752",
+                "pgaptmp_002753",
+                "pgaptmp_002755",
+                "pgaptmp_002763",
+                "pgaptmp_002764",
+                "pgaptmp_002766",
+                "pgaptmp_002788",
+                "pgaptmp_002842",
+                "pgaptmp_002962",
+                "pgaptmp_002966",
+                "pgaptmp_002967",
+                "pgaptmp_002970",
+                "pgaptmp_002976",
+                "pgaptmp_003038",
+                "pgaptmp_003083",
+                "pgaptmp_003097",
+                "pgaptmp_003104",
+                "pgaptmp_003114",
+                "pgaptmp_003200",
+                "pgaptmp_003243",
+                "pgaptmp_003244",
+                "pgaptmp_003292",
+                "pgaptmp_003293",
+                "pgaptmp_003328",
+                "pgaptmp_003330",
+                "pgaptmp_003378",
+                "pgaptmp_003379",
+                "pgaptmp_003451",
+                "pgaptmp_003489",
+                "pgaptmp_003493",
+                "pgaptmp_003536",
+                "pgaptmp_003581",
+                "pgaptmp_003592",
+                "pgaptmp_003599",
+                "pgaptmp_003616",
+                "pgaptmp_003618",
+                "pgaptmp_003659",
+                "pgaptmp_003663",
+                "pgaptmp_003683",
+                "pgaptmp_003704",
+                "pgaptmp_003705",
+                "pgaptmp_003718",
+                "pgaptmp_003720",
+                "pgaptmp_003768",
+                "pgaptmp_003784",
+                "pgaptmp_003810",
+                "pgaptmp_003811",
+                "b3702",
+                "pgaptmp_003845",
+                "pgaptmp_003897",
+                "pgaptmp_003905",
+                "pgaptmp_003913",
+                "pgaptmp_003924",
+                "pgaptmp_003937",
+                "pgaptmp_003973",
+                "pgaptmp_003994",
+                "pgaptmp_004019",
+                "pgaptmp_004169",
+                "pgaptmp_004236",
+                "pgaptmp_004336",
+                "pgaptmp_004342",
+                "pgaptmp_004358",
+                "pgaptmp_004385",
+                "pgaptmp_004408",
+                "pgaptmp_004409",
+                "pgaptmp_004416",
+                "pgaptmp_004418",
+                "pgaptmp_004419",
+                "pgaptmp_004420",
+                "pgaptmp_004422",
+                "pgaptmp_004430",
+                "pgaptmp_004443",
+                "pgaptmp_004444",
+                "pgaptmp_004449",
+                "pgaptmp_004450",
+                "pgaptmp_004483",
+                "pgaptmp_004486",
+                "pgaptmp_004487"
+            ],
+            "importance": "high",
+            "to_do": "Check whether the genbank was downloaded or constructed correctly."
+        }
+    ],
+    "org.get_rpod": [
+        {
+            "msg": "RpoD_mono was identified as RpoD. If this is not true, define RpoD!",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RpoD by running me_builder.org.rpod = correct_rpod"
+        }
+    ],
+    "org.get_rna_polymerase": [
+        {
+            "msg": "hRNAP was identified as RNA polymerase",
+            "importance": "high",
+            "to_do": "Find correct RNAP complex and add force_RNAP_as:\"RNAP_COMPLEX_ID\" to the configuration (by default, organism.json)"
+        }
+    ],
+    "org.update_ribosome_stoich": [
+        {
+            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S). Check whether they are ribosomal proteins!",
+            "triggered_by": [
+                "RplY_mono",
+                "RpmB_mono",
+                "RpsP_mono",
+                "RpsF_mono",
+                "RpsI_mono",
+                "RplQ_mono",
+                "RpsJ_mono",
+                "RpsD_mono",
+                "RplS_mono",
+                "RpmJ_mono",
+                "RpsN_mono",
+                "RpsK_mono",
+                "RplT_mono",
+                "RpsL_mono",
+                "RpsR_mono",
+                "RpmD_mono",
+                "RplI_mono",
+                "RpsS_mono",
+                "RpsB_mono",
+                "RpmE_mono",
+                "RpsO_mono",
+                "RpmH_mono",
+                "RpmG_mono",
+                "RplE_mono",
+                "RpsT_mono",
+                "RpsU_mono",
+                "RplB_mono",
+                "RplW_mono",
+                "RplR_mono",
+                "RpsG_mono",
+                "RplX_mono",
+                "RpsA_mono",
+                "RplA_mono",
+                "RplK_mono",
+                "RplO_mono",
+                "RplC_mono",
+                "RpsH_mono",
+                "RpmA_mono",
+                "RplM_mono",
+                "RplU_mono",
+                "RplD_mono",
+                "rpL7/12_mod_acetyl(2)",
+                "RpmC_mono",
+                "RplJ_mono",
+                "RplV_mono",
+                "RplN_mono",
+                "RpmF_mono",
+                "RpmI_mono",
+                "RpsM_mono",
+                "RpsC_mono",
+                "RpsE_mono",
+                "RplF_mono",
+                "RpsQ_mono",
+                "RplP_mono",
+                "Sra_mono",
+                "b4506-MONOMER",
+                "b0296-MONOMER",
+                "b0835-MONOMER",
+                "b0852-MONOMER",
+                "b0905-MONOMER",
+                "b1066-MONOMER",
+                "b1128-MONOMER",
+                "b2330-MONOMER",
+                "b3259-MONOMER",
+                "pgaptmp_003451-MONOMER"
+            ],
+            "importance": "high",
+            "to_do": "Curate them in ribosomal_proteins.txt"
+        }
+    ],
+    "org.purge_genes_in_model": [
+        {
+            "msg": "Some genes in M-model were not found in genes.txt or genome.gb. These genes will be skipped in reconstruction.",
+            "triggered_by": [
+                "s0001",
+                "b1325",
+                "b0007",
+                "b1385",
+                "b0774",
+                "b1801",
+                "b1200",
+                "b3564",
+                "b3785",
+                "b4287",
+                "b1611",
+                "b2092",
+                "b1621",
+                "b0349",
+                "b2866",
+                "b0344",
+                "b3182",
+                "b3546",
+                "b3089",
+                "b0775"
+            ],
+            "importance": "high",
+            "to_do": "Confirm the gene is correct in the m_model. If so, add it to genes.txt"
+        }
+    ],
+    "prepare_model": [
+        {
+            "msg": "M-model cannot grow",
+            "importance": "critical",
+            "to_do": "Check that the model you provided works"
+        }
+    ],
+    "check": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt need curation",
+            "triggered_by": [
+                "LI_c",
+                "sufsesh_c",
+                "dsbaox_p",
+                "moadcosh_c",
+                "3hcpalm9eACP_c",
+                "3ocpalm9eACP_c",
+                "iscssh_c",
+                "flutox_c"
+            ],
+            "importance": "medium",
+            "to_do": "Map or remove these metabolites in me_metabolites.txt"
+        }
+    ]
+}

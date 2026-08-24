@@ -1,0 +1,17 @@
+generic_component	enzymes
+generic_16Sm4Cm1402	RsmH_mono,RsmI_mono
+generic_16s_rRNAs	RNA_pgaptmp_000193,RNA_pgaptmp_002163,RNA_pgaptmp_002770,RNA_pgaptmp_003231,RNA_pgaptmp_003325,RNA_pgaptmp_003442,RNA_pgaptmp_003481
+generic_23s_rRNAs	RNA_pgaptmp_000196,RNA_pgaptmp_002161,RNA_pgaptmp_002767,RNA_pgaptmp_003233,RNA_pgaptmp_003328,RNA_pgaptmp_003444,RNA_pgaptmp_003483
+generic_5s_rRNAs	RNA_pgaptmp_000197,RNA_pgaptmp_002160,RNA_pgaptmp_002764,RNA_pgaptmp_002766,RNA_pgaptmp_003234,RNA_pgaptmp_003329,RNA_pgaptmp_003445,RNA_pgaptmp_003484
+generic_Dus	DusA_mono,DusB_mono,DusC_mono
+generic_LYSINEaaRS	LysI_RS_dim,LysII_RS_dim_mod_mg2(6)
+generic_RF	PrfA_mono,PrfB_mono
+generic_RNase	RNase_T_dim_mod_mg2(4),RNase_BN_dim_mod_zn2(2),Rnd_mono_mod_mg2(5),Rnb_mono_mod_mg2(1),Rph_mono_mod_mg2(1)
+generic_Tuf	TufA_mono,TufB_mono
+generic_acp_synthase	EG12221-MONOMER,HOLO-ACP-SYNTH-CPLX_mod_mg2(1),HOLO-ACP-SYNTH-CPLX_mod_mn2(1)
+generic_cys_ligase	Ser_RS_dim,CysS_mono
+generic_fes_transfers_complex	CPLX0-7617,CPLX0-7824,IscA_tetra
+generic_glu_ligase	GltX_mono,GlnS_mono
+generic_lys_ligase	LysII_RS_dim,LysI_RS_dim
+generic_protease	Lon
+generic_proteasome	ClpXP,ClpAP,ClpAXP,HslUV,CPLX0-2982

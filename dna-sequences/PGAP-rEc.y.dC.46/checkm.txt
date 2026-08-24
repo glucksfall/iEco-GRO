@@ -1,0 +1,2 @@
+Bin Id	Marker lineage	# genomes	# markers	# marker sets	0	1	2	3	4	5+	Completeness	Contamination	Strain heterogeneity
+annotation	Escherichia coli (6)	20	1628	307	25	1598	5	0	0	0	98.10	0.21	0.00

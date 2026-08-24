@@ -1,0 +1,7 @@
+reaction_id,name,gene_reaction_rule,reaction,notes
+EX_bipa__L_e,L-biphenylalanine exchange,,bipa__L_e <==>,
+BIPAabcpp,L-biphenylalanine transport via ABC system (periplasm),b3460 and b3456 and b3457 and b3454 and b3455,bipa__L_p + atp_c + h2o_c <==> adp_c + bipa__L_c + h_c + pi_c,
+BIPAt2pp,L-biphenylalanine transport in via proton symport (periplasm),b4208,bipa__L_p + h_p => bipa__L_c + h_c,
+BIPAt2rpp,L-biphenylalanine reversible transport via proton symport (periplasm),,bipa__L_p + h_p <==> bipa__L_c + h_c,
+BIPAt4pp,L-biphenylalanine transport in via sodium symport (periplasm),b0007,bipa__L_p + na1_p => bipa__L_c + na1_c,
+BIPAtex,L-biphenylalanine transport via diffusion (extracellular to periplasm),b0241 or b0929 or b1377 or b2215,bipa__L_e <==> bipa__L_p,
