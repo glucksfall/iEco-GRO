@@ -104285,8 +104285,8 @@
 "h_c":1.0,
 "pi_c":1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"b3454 and b3455 and b3457 and b3460 and b3456",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
@@ -105126,8 +105126,8 @@
 "pac_c":1.0,
 "pacald_c":-1.0
 },
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
+"lower_bound":0,
+"upper_bound":0,
 "gene_reaction_rule":"b1385",
 "subsystem":"Alternate Carbon Metabolism",
 "notes":{
@@ -112255,8 +112255,8 @@
 "h_c":1.0,
 "h_p":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"(b0463 and b0462 and b3035) or (b0463 and b2470 and b3035)",
 "subsystem":"Transport, Outer Membrane",
 "notes":{
@@ -120073,8 +120073,8 @@
 "h_c":1.0,
 "h_p":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"(b0463 and b0462 and b3035) or (b0463 and b2470 and b3035)",
 "subsystem":"Transport, Outer Membrane",
 "notes":{
@@ -125105,8 +125105,8 @@
 "q8_c":-1.0,
 "q8h2_c":1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"(b3892 and b3893 and b3894) or (b1474 and b1475 and b1476)",
 "subsystem":"Oxidative Phosphorylation",
 "notes":{
@@ -125396,8 +125396,8 @@
 "mql8_c":1.0,
 "mqn8_c":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"(b1474 and b1475 and b1476) or (b3892 and b3893 and b3894)",
 "subsystem":"Oxidative Phosphorylation",
 "notes":{
@@ -127453,8 +127453,8 @@
 "h_c":1.0,
 "h_p":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"(b0463 and b0462 and b3035) or (b0463 and b2470 and b3035)",
 "subsystem":"Transport, Outer Membrane",
 "notes":{
@@ -131105,8 +131105,8 @@
 "gal_bD_p":-1.0,
 "gal_p":1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"b0756",
 "subsystem":"Alternate Carbon Metabolism",
 "notes":{
@@ -140166,8 +140166,8 @@
 "h_c":1.0,
 "h_p":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"b3035",
 "subsystem":"Inorganic Ion Transport and Metabolism",
 "notes":{
@@ -142689,8 +142689,8 @@
 "nadh_c":1.0,
 "xan_c":1.0
 },
-"lower_bound":0.0,
-"upper_bound":1000.0,
+"lower_bound":0,
+"upper_bound":0,
 "gene_reaction_rule":"b2866 and b2867 and b2868",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
@@ -145854,8 +145854,8 @@
 "ile__L_p":-1.0,
 "pi_c":1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"b3454 and b3455 and b3457 and b3460 and b3456",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
@@ -146419,8 +146419,8 @@
 "indole_c":-1.0,
 "indole_p":1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"(b3265 and b3266) and b3035",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
@@ -150865,8 +150865,8 @@
 "mincyc_e":1.0,
 "mincyc_p":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"(b0463 and b0462 and b3035) or (b0463 and b2470 and b3035)",
 "subsystem":"Transport, Outer Membrane",
 "notes":{
@@ -156917,8 +156917,8 @@
 "novbcn_e":1.0,
 "novbcn_p":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"(b0463 and b0462 and b3035) or (b0463 and b2470 and b3035)",
 "subsystem":"Transport, Outer Membrane",
 "notes":{
@@ -173013,8 +173013,8 @@
 "sertrna_c":1.0,
 "trnaser_c":-1.0
 },
-"lower_bound":0.0,
-"upper_bound":1000.0,
+"lower_bound":0,
+"upper_bound":0,
 "gene_reaction_rule":"b0893",
 "subsystem":"tRNA Charging",
 "notes":{
@@ -173176,8 +173176,8 @@
 "sertrna_sec_c":1.0,
 "trnasecys_c":-1.0
 },
-"lower_bound":0.0,
-"upper_bound":1000.0,
+"lower_bound":0,
+"upper_bound":0,
 "gene_reaction_rule":"b0893",
 "subsystem":"tRNA Charging",
 "notes":{
@@ -176188,8 +176188,8 @@
 "thr__L_c":1.0,
 "thr__L_p":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"b3454 and b3455 and b3457 and b3460 and b3456",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
@@ -181011,8 +181011,8 @@
 "ttrcyc_e":1.0,
 "ttrcyc_p":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"(b0463 and b0462 and b3035) or (b0463 and b2470 and b3035)",
 "subsystem":"Transport, Outer Membrane",
 "notes":{
@@ -181777,8 +181777,8 @@
 "uagmda_c":-1.0,
 "udp_c":1.0
 },
-"lower_bound":0.0,
-"upper_bound":1000.0,
+"lower_bound":0,
+"upper_bound":0,
 "gene_reaction_rule":"b0090",
 "subsystem":"Cell Envelope Biosynthesis",
 "notes":{
@@ -181973,8 +181973,8 @@
 "val__L_c":1.0,
 "val__L_p":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"b3454 and b3455 and b3457 and b3460 and b3456",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
@@ -182090,8 +182090,8 @@
 "rfamp_e":1.0,
 "rfamp_p":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"(b0463 and b0462 and b3035) or (b0463 and b2470 and b3035)",
 "subsystem":"Transport, Outer Membrane",
 "notes":{
@@ -182398,8 +182398,8 @@
 "urate_c":1.0,
 "xan_c":-1.0
 },
-"lower_bound":0.0,
-"upper_bound":1000.0,
+"lower_bound":0,
+"upper_bound":0,
 "gene_reaction_rule":"b2866 and b2867 and b2868",
 "subsystem":"Nucleotide Salvage Pathway",
 "notes":{
@@ -183424,8 +183424,8 @@
 "udpLa4o_c":1.0,
 "udpglcur_c":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"b2255",
 "subsystem":"Lipopolysaccharide Biosynthesis / Recycling",
 "notes":{
@@ -184619,8 +184619,8 @@
 "udpLa4fn_c":1.0,
 "udpLa4n_c":-1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"b2255",
 "subsystem":"Lipopolysaccharide Biosynthesis / Recycling",
 "notes":{
@@ -184903,8 +184903,8 @@
 "uLa4fn_c":-1.0,
 "uLa4n_c":1.0
 },
-"lower_bound":0,
-"upper_bound":0,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"b2256",
 "subsystem":"Lipopolysaccharide Biosynthesis / Recycling",
 "notes":{
