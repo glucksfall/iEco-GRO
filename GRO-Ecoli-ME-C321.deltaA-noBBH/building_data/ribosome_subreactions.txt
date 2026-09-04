@@ -1,4 +1,4 @@
 subreaction	enzyme
-RbfA_mono_assembly_factor_phase1	
-RimM_mono_assembly_factor_phase1	
-gtp_bound_30S_assembly_factor_phase1	
+RbfA_mono_assembly_factor_phase1	RbfA_mono
+RimM_mono_assembly_factor_phase1	RimM_mono
+gtp_bound_30S_assembly_factor_phase1	Era_dim
