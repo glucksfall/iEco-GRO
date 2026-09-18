@@ -1,2 +1,2 @@
 subreaction	enzymes
-sec_addition_at_UGA	CPLX_dummy
+sec_addition_at_UGA	SelA_deca_mod_pydx5p(10),SelB_mono

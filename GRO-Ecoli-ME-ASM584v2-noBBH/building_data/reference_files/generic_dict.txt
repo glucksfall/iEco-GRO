@@ -12,6 +12,6 @@ generic_acp_synthase	EG12221-MONOMER,HOLO-ACP-SYNTH-CPLX_mod_mg2(1),HOLO-ACP-SYN
 generic_cys_ligase	Ser_RS_dim,CysS_mono
 generic_fes_transfers_complex	CPLX0-7617,CPLX0-7824,IscA_tetra
 generic_glu_ligase	GlnS_mono,GltX_mono
-generic_lys_ligase	LysII_RS_dim,LysI_RS_dim
+generic_lys_ligase	LysI_RS_dim,LysII_RS_dim
 generic_protease	Lon
 generic_proteasome	ClpXP,ClpAP,ClpAXP,HslUV,CPLX0-2982

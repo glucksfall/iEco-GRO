@@ -936,25 +936,6 @@
             "to_do": "Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly."
         }
     ],
-    "update_peptide_release_factors_from_homology": [
-        {
-            "msg": "Some enzymes defined in me_builder.org.peptide_release_factors are different from the ones inferred from homology",
-            "triggered_by": [
-                {
-                    "subreaction": "UAG",
-                    "defined_complex": "",
-                    "inferred_complex": "PrfA_mono"
-                },
-                {
-                    "subreaction": "UGA",
-                    "defined_complex": "",
-                    "inferred_complex": "PrfB_mono"
-                }
-            ],
-            "importance": "medium",
-            "to_do": "Confirm whether the definitions or homology calls are correct in me_builder.org.peptide_release_factors. Curate the inputs in peptide_release_factors.txt accordingly."
-        }
-    ],
     "check": [
         {
             "msg": "Some metabolites in me_metabolites.txt need curation",

@@ -133,12 +133,13 @@ ncRNAs:
   ffs: pgaptmp_000469
   rnpB: pgaptmp_003232
 ngam: 1.0
-other_lipids: CPLX_dummy
+other_lipids:
+- EG10168-MONOMER
 out_directory: GRO-Ecoli-ME-rEc.y.dC.46-noBBH
 peptide_release_factors:
   UAA: generic_RF
-  UAG: CPLX_dummy
-  UGA: CPLX_dummy
+  UAG: PrfA_mono
+  UGA: PrfB_mono
 percent_dna_data:
 - 0.0592
 - 0.0512
@@ -146,7 +147,9 @@ percent_dna_data:
 - 0.0252
 - 0.0222
 - 0.0208
-pg_pe_160: CPLX_dummy
+pg_pe_160:
+- Lgt_MONOMER
+- LspA_MONOMER
 relax_rrna_modifications: false
 rna_polymerases:
   RNAP_FecImono:
@@ -172,5 +175,57 @@ rna_polymerases:
     sigma_factor: RpoS_mono
 run_bbh_blast: false
 selenocysteine_enzymes:
-- CPLX_dummy
-translocation_multipliers: {}
+- SelA_deca_mod_pydx5p(10)
+- SelB_mono
+translocation_multipliers:
+  TatA_MONOMER:
+    b0123: 23.0
+    b0152: 21.0
+    b0894: 26.0
+    b0972: 14.0
+    b0973: 14.0
+    b0997: 13.5
+    b1474: 5.166666666666667
+    b1475: 5.166666666666667
+    b1587: 14.0
+    b1588: 15.0
+    b1589: 14.0
+    b1872: 26.0
+    b2205: 20.0
+    b2206: 27.0
+    b2435: 20.0
+    b2817: 22.0
+    b2938: 6.25
+    b2994: 14.0
+    b2996: 21.0
+    b2997: 14.0
+    b3893: 15.5
+    b3894: 15.5
+    b4072: 20.0
+  TatE_MONOMER:
+    b0123: 23.0
+    b0152: 21.0
+    b0894: 26.0
+    b0972: 14.0
+    b0973: 14.0
+    b0997: 13.5
+    b1474: 5.166666666666667
+    b1475: 5.166666666666667
+    b1587: 14.0
+    b1588: 15.0
+    b1589: 14.0
+    b1872: 26.0
+    b2205: 20.0
+    b2206: 27.0
+    b2435: 20.0
+    b2817: 22.0
+    b2938: 6.25
+    b2994: 14.0
+    b2996: 21.0
+    b2997: 14.0
+    b3893: 15.5
+    b3894: 15.5
+    b4072: 20.0
+  YidC_MONOMER:
+    b1855: 2.0
+    b3731: 2.0

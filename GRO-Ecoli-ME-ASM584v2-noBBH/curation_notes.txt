@@ -328,21 +328,6 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 
 
 
-#################### medium@update_peptide_release_factors_from_homology ####################
-********** Some enzymes defined in me_builder.org.peptide_release_factors are different from the ones inferred from homology
-The following items triggered the warning:
-
-{"subreaction": "UAG", "defined_complex": "", "inferred_complex": "PrfA_mono"}
-
-{"subreaction": "UGA", "defined_complex": "", "inferred_complex": "PrfB_mono"}
-
-
-**********Solution:
-Confirm whether the definitions or homology calls are correct in me_builder.org.peptide_release_factors. Curate the inputs in peptide_release_factors.txt accordingly.
-
-
-
-
 #################### medium@check ####################
 ********** Some metabolites in me_metabolites.txt need curation
 The following items triggered the warning:
