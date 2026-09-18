@@ -1,8 +1,8 @@
 ME-Model-ID: GRO-Ecoli-ME-ASM584v2-noBBH
 START_tRNA:
-- b2813
 - b2814
 - b2815
+- b2816
 - b3171
 add_lipoproteins: true
 amino_acid_trna_synthetase:
