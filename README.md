@@ -42,9 +42,6 @@ Reconstruction steps:
 
 Additional analysis:
 ====================
-
-M-models from genomic sequences can be obtained using
-
 - helper.check-gene-overlap-and-essentiality.ipynb:
 
 Determine the number of pseudo genes in comparison with a reference sequence (ASM584v2)
