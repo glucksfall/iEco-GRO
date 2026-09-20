@@ -58,6 +58,6 @@ Additional analysis:
 
 Determine the number of pseudogenes in comparison with a reference sequence (ASM584v2)
 
-Extract annotation from reference GenBank file for pseudogenes in an organism.
+Extract annotation from a reference GenBank file to detect pseudogenes in an organism.
 
 Create and simulate M-models by knocking out pseudogenes. If growth rate is zero, it determines essential gene(s).
