@@ -37,17 +37,17 @@ PGAP ignore all errors option is used in the case of rE.coli-57 because the geno
 Reconstruction steps:
 =====================
 
-1. Modify and execute for the first time step1.generate_files.ipynb with organism-specific information about tRNA-initiator Met(CAU) genes, and ffs and rnpB genes:
+1. Modify and execute for the first time `step1.generate_files.ipynb` with organism-specific information about tRNA-initiator Met(CAU) genes, and ffs and rnpB genes:
 
 `jupyter nbconvert --ClearOutputPreprocessor.enabled=True --ExecutePreprocessor.timeout=None --allow-errors --to notebook --execute --inplace step1.generate_files.ipynb`
 
 2. Copy and paste all 16 files from manual-curation into each building_data subdirectories, and re-run step1.generate_files.ipynb. This will correct automated-org-with-refs-tRNAs.xlsx and coralme_config.yaml files.
 
-3. Reconstruct ME-models using step2.build-me-model.ipynb:
+3. Reconstruct ME-models using `step2.build-me-model.ipynb`:
 
 `jupyter nbconvert --ClearOutputPreprocessor.enabled=True --ExecutePreprocessor.timeout=None --allow-errors --to notebook --execute --inplace step2.build-me-model.ipynb`
 
-4. Check models properties and simulate maximum growth rates using step3.check-ecolime-no-bbh-me-model.ipynb:
+4. Check models properties and simulate maximum growth rates using `step3.check-ecolime-no-bbh-me-model.ipynb`:
 
 `jupyter nbconvert --ClearOutputPreprocessor.enabled=True --ExecutePreprocessor.timeout=None --allow-errors --to notebook --execute --inplace step3.check-ecolime-no-bbh-me-model.ipynb`
 
