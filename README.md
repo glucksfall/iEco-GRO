@@ -12,6 +12,8 @@ Pre-processing steps:
 
 `python3 pgap.ncbi/scripts/pgap.py -r -o pgap -g Ochre.fna -s 'Escherichia coli' --ignore-all-errors`
 
+Skip this step if GenBank is fully annotated, or tRNAscan output can complete tRNA annotation (use tRNAscan_output option)
+
 2. Execute BLASTp on both ways:
 
 `blastp -query ASM584v2\ \(wildtype\)/protein.faa -subject ASM5499916v1\ \(Ochre\)/protein.faa -out blastp-org_as_db.txt -outfmt 6`
