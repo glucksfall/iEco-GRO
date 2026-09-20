@@ -1,5 +1,5 @@
 # iEco-GRO-MEmodels
-Public repository for Genomically Recoded Organism for Escherichia coli
+Public repository of Genomically Recoded Organism ME-models for *Escherichia coli* strains.
 
 Pre-processing steps:
 =====================
