@@ -37,7 +37,7 @@ PGAP ignore all errors option is used in the case of rE.coli-57 because the geno
 Reconstruction steps:
 =====================
 
-1. Modify and execute for the first time `step1.generate_files.ipynb` with organism-specific information about tRNA-initiator Met(CAU) genes, and ffs and rnpB genes:
+1. Modify with organism-specific information about tRNA-initiator Met(CAU) genes, and ffs and rnpB genes, and execute for the first time `step1.generate_files.ipynb`:
 
 `jupyter nbconvert --ClearOutputPreprocessor.enabled=True --ExecutePreprocessor.timeout=None --allow-errors --to notebook --execute --inplace step1.generate_files.ipynb`
 
