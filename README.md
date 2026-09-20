@@ -25,6 +25,7 @@ PGAP ignore all errors option is used in the case of rE.coli-57 because the geno
 1. Execute BLASTp on both ways:
 
 `blastp -query ASM584v2\ \(wildtype\)/protein.faa -subject ASM5499916v1\ \(Ochre\)/protein.faa -out blastp-org_as_db.txt -outfmt 6`
+
 `blastp -query ASM5499916v1\ \(Ochre\)/protein.faa -subject ASM584v2\ \(wildtype\)/protein.faa -out blastp-ref_as_db.txt -outfmt 6`
 
 2. Generate a best-bidirectional hit mapping dictionary and a new GenBank file compatible with the M-model:
