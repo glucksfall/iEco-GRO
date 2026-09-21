@@ -41,7 +41,7 @@ Reconstruction steps:
 
 `jupyter nbconvert --ClearOutputPreprocessor.enabled=True --ExecutePreprocessor.timeout=None --allow-errors --to notebook --execute --inplace step1.generate_files.ipynb`
 
-2. Copy and paste all 16 files from `manual-curation` into each `building_data` subdirectories, and re-run `step1.generate_files.ipynb`. This will correct `automated-org-with-refs-tRNAs.xlsx` and `coralme_config.yaml` files.
+2. Copy and paste all 17 files from `manual-curation` into each `building_data` subdirectories, and re-run `step1.generate_files.ipynb`. This will correct `automated-org-with-refs-tRNAs.xlsx` and `coralme_config.yaml` files.
 
 3. Reconstruct ME-models using `step2.build-me-model.ipynb`:
 
