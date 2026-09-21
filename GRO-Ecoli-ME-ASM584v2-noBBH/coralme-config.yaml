@@ -190,6 +190,7 @@ run_bbh_blast: false
 selenocysteine_enzymes:
 - SelA_deca_mod_pydx5p(10)
 - SelB_mono
+tRNAscan_output: ''
 translocation_multipliers:
   TatA_MONOMER:
     b0123: 23.0
