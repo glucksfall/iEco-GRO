@@ -3,6 +3,7 @@ START_tRNA:
 - ACI6BN_20510
 - ACI6BN_18735
 add_lipoproteins: true
+add_prot_deg_reactions: false
 amino_acid_trna_synthetase:
   ala__L_c: Ala_RS_tetra_mod_zn2(4)
   arg__L_c: ArgS_mono_mod_mg2(1)

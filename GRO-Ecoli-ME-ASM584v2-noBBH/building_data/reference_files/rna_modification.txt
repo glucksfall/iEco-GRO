@@ -7,7 +7,7 @@ D	16,17,20,20A,21	tRNA	generic_Dus	Homology
 Gm	18	tRNA	TrmH_dim	Homology
 Gm	2251	23S	RlmB_dim	Homology
 I	34	tRNA	TadA_dim_mod_zn2(2)	Homology
-Q	34	tRNA	Tgt_hexa_mod_zn2(6) AND QueA_mono AND QueG_mono_mod_4fe4s(2)	Homology
+Q	34	tRNA	QueA_mono AND Tgt_hexa_mod_zn2(6) AND QueG_mono_mod_4fe4s(2)	Homology
 Um	2552	23S	RrmJ_mono	Homology
 Um	32	tRNA	TrmJ_dim	Homology
 Y	2457	23S	YmfC_mono	Homology
@@ -49,13 +49,13 @@ m62A	1518,1519	16S	KsgA_mono	Homology
 m6A	1618	23S	RlmF_mono	Homology
 m6A	2030	23S	rlmJ_mono	Homology
 m6A	37	tRNA	YfiC_mono	Homology
-m6t6A	37	tRNA	TsaC_mono AND TsaB_mono AND TsaE_mono AND TsaD_mono AND TsaA_mono	Homology
+m6t6A	37	tRNA	TsaB_mono AND TsaD_mono AND TsaE_mono AND TsaA_mono AND TsaC_mono	Homology
 m7G	46	tRNA	YggH_mono	Homology
 m7G	2069	23S	RlmL_dim	Homology
 m7G	527	16S	RsmG_mono	Homology
-mnm5U	34	tRNA	MnmC_mono_mod_fad(1) AND MnmEG_cplx_mod_fad(1)_mod_k(2)	Homology
-mnm5s2U	34	tRNA	TrmU_mono AND YccK_mono AND YheLMN_cplx AND MnmC_mono_mod_fad(1) AND YhhP_mono AND MnmEG_cplx_mod_fad(1)_mod_k(2)	Homology
+mnm5U	34	tRNA	MnmEG_cplx_mod_fad(1)_mod_k(2) AND MnmC_mono_mod_fad(1)	Homology
+mnm5s2U	34	tRNA	MnmEG_cplx_mod_fad(1)_mod_k(2) AND MnmC_mono_mod_fad(1) AND YheLMN_cplx AND YhhP_mono AND YccK_mono AND TrmU_mono	Homology
 ms2i6A	37	tRNA	MiaA_dim_mod_mg2(2) AND MiaB_mono_mod_4fe4s(1)	Homology
 s2C	32	tRNA	YdaO_dim_mod_4fe4s(1)	Homology
 s4U	8	tRNA	ThiI_mono	Homology
-t6A	37	tRNA	TsaB_mono AND TsaE_mono AND TsaD_mono AND TsaC_mono	Homology
+t6A	37	tRNA	TsaB_mono AND TsaD_mono AND TsaE_mono AND TsaC_mono	Homology
